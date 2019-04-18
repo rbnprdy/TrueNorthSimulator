@@ -4,7 +4,7 @@ This is a software simulation for the TrueNorth FPGA emulation created by Dr. Ak
 
 ## Getting Started
 
-The simulator can be built using [CMake](https://cmake.org/install/). In order to build on a Unix systems can be done, clone this repository, enter the repository, and run the following commands:
+The simulator can be built using [CMake](https://cmake.org/install/). In order to build on a Unix system, clone this repository, enter the repository, and run the following commands:
 
 ```
 cd build
